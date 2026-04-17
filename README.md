@@ -5,7 +5,7 @@ This project provides a comparative analysis of Airbnb listing data for two majo
 ---
 
 ## 📊 Slides
-https://drive.google.com/file/d/1LRtB7QbPn0vt_0VzZhebDQlx9XPgRAC6/view?usp=sharing
+https://drive.google.com/file/d/1xhDhwTyL4DssfaVg7GynKpLmychqF1Kt/view?usp=sharing
 
 ## 📊 Project Milestone: Data Refinement
 Following a rigorous data refinement process, we have established a robust dataset of **14,759 records**. This high-volume sample provides a statistically significant foundation for our risk assessment models and market trend predictions.
